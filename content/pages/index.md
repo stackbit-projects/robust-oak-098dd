@@ -6,9 +6,8 @@ sections:
     image: images/hero.png
     image_alt: App preview
     title: This is a test by Gale
-    content: >-
-      Azimuth is the perfect theme for developers, designers and entrepreneurs
-      who need a sleek, modern SaaS site.
+    content: |
+      I really don't want to take out the garbage, so I'm testing this instead! 
     actions:
       - label: Learn More
         url: /features
