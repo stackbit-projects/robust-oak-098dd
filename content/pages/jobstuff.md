@@ -1,5 +1,5 @@
 ---
-title: lorem-ipsum
+title: Open Positions
 subtitle: lorem-ipsum
 image_alt: lorem-ipsum
 seo:
