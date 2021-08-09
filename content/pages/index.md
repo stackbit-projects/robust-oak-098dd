@@ -3,7 +3,7 @@ title: Maybe this will work
 sections:
   - section_id: hero
     type: section_hero
-    image: images/hero.png
+    image: /images/9.jpg
     image_alt: App preview
     title: This is a test by Gale
     content: |
