@@ -3,7 +3,7 @@ title: Jobs stuff
 sections:
   - section_id: jobs list
     title: jobs list thing
-    subtitle: probably a job list
+    subtitle: possibly a job list
     background: gray
     faq_items:
       - question: Some category
