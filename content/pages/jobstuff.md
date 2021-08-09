@@ -1,6 +1,6 @@
 ---
 title: Open Positions
-subtitle: lorem-ipsum
+subtitle: 'Something clever, etc.'
 image_alt: lorem-ipsum
 seo:
   title: ''
