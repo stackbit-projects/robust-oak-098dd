@@ -7,14 +7,18 @@ sections:
     background: gray
     faq_items:
       - question: Some category
-        answer: |
+        answer: >
           ## List of jobs or whatever
+
 
           Bla bla bla
 
-          ### [This one]("mailto:"nobody@example.com)
 
-          *   This one 
+          ### [This
+          one]("mailto:someone@example.com?cc=someoneelse@example.com\&bcc=secret@example.com\&subject=A%20mail\&body=Hello.%20I%20am%20interested.%20Call%20me%20at%20")
+
+
+          *   This one
         type: faq_item
       - question: I am going to engineering hell
         answer: |+
