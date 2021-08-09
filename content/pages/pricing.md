@@ -1,24 +1,6 @@
 ---
 title: Pricing
 sections:
-  - section_id: pricing
-    type: section_pricing
-    background: gray
-    title: A list of jobs and things
-    subtitle: Hastily slapped together from what was a pricing page
-    pricing_plans:
-      - title: Enterprise
-        subtitle: For very large businesses
-        price: $149/m
-        details: |-
-          * Vestibulum non eros quis
-          * Aenean iaculis lorem
-          * Mauris eleifend sapien
-          * Phasellus lobortis risus laoreet quam
-        actions:
-          - label: Order Now
-            url: /signup
-            style: secondary
   - section_id: faq
     type: section_faq
     background: gray
