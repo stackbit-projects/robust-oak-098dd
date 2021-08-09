@@ -7,17 +7,17 @@ sections:
     image: images/feature1.png
     image_alt: App preview on a phone and tablet
     title: This is stuff I can do for you!
-    content: >-
+    content: >
       Nam pulvinar ante eu ultricies volutpat. Sed nulla nibh, dapibus sit amet
       cursus quis, fringilla nec sapien. Vestibulum imperdiet nunc bibendum
       consectetur lobortis.
 
 
-      * Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+      *   Lorem ipsum dolor sit amet, consectetur adipiscing elit.
 
-      * Ut eu nunc at diam fringilla fringilla eu ut massa.
+      *   Ut eu nunc at diam fringilla fringilla eu ut massa.
 
-      * Phasellus ut enim non lorem venenatis rutrum.
+      *   Phasellus ut enim non lorem venenatis rutrum.
 
 
       Mollis eget congue quis, venenatis sit amet metus. Etiam sit amet tortor
