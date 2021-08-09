@@ -3,7 +3,7 @@ title: Jobs stuff
 sections:
   - section_id: jobs list
     title: jobs list thing
-    subtitle: lorem-ipsum
+    subtitle: 's list of '
     background: gray
     faq_items:
       - question: >-
