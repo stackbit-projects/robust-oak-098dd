@@ -17,17 +17,33 @@ sections:
           *   This one 
         type: faq_item
       - question: I am going to engineering hell
-        answer: >-
-          ## Lorem ipsum
+        answer: |+
+          # Some category
+
+          This is a terrible abuse of the included FAQ widget in this theme. 
 
 
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
+
+          #### [Role name 1]("mailto:person@example.com)
+
+          This is the worst possible way to do this. Do not do this. 
 
 
-          - Lorem ipsum
 
-          - dolor sit amet
+          #### Role name 2
+
+          It did not get any better with this next line. 
+
+
+
+          #### Role name 3 
+
+          *   It's
+          *   Still
+          *   Terrible
+
+
+
         type: faq_item
     type: section_faq
 seo:
