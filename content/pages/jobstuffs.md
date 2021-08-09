@@ -9,17 +9,14 @@ sections:
       - question: >-
           Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
           eiusmod tempor incididunt ut labore et dolore magna aliqua.
-        answer: >-
-          ## Lorem ipsum
+        answer: |
+          ## List of jobs or whatever
 
+          Bla bla bla
 
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
+          ### [This one]("mailto:"nobody@example.com)
 
-
-          - Lorem ipsum
-
-          - dolor sit amet
+          *   This one 
         type: faq_item
       - question: >-
           Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
