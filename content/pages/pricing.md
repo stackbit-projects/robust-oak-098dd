@@ -5,7 +5,7 @@ sections:
     type: section_pricing
     background: gray
     title: A list of jobs and things
-    subtitle: You can have a separate pricing page or list everything on the home page.
+    subtitle: Disastrously slapped together from what was a pricing page
     pricing_plans:
       - title: Basic
         subtitle: For small businesses
