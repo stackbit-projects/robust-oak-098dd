@@ -1,5 +1,5 @@
 ---
-title: Home
+title: Maybe this will work
 sections:
   - section_id: hero
     type: section_hero
