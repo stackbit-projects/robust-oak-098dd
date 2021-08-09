@@ -1,5 +1,5 @@
 ---
-title: lorem-ipsum
+title: Jobs stuff
 sections: []
 seo:
   title: ''
