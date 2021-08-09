@@ -1,7 +1,7 @@
 ---
 title: Jobs stuff
 sections:
-  - section_id: some type
+  - section_id: jobs list
     title: lorem-ipsum
     subtitle: lorem-ipsum
     background: gray
