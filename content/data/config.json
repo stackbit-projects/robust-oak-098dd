@@ -53,7 +53,7 @@
                 "image": "/images/Layer.svg",
                 "image_url": "/",
                 "image_alt": "Footer logo",
-                "content": "Stackbit theme demo"
+                "content": "This is a random theme from stackbit\n\n"
             },
             {
                 "type": "footer_nav",
