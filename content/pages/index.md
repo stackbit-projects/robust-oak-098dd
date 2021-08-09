@@ -9,7 +9,7 @@ sections:
     content: |
       I really don't want to take out the garbage, so I'm testing this instead! 
     actions:
-      - label: Learn More
+      - label: Click this awesome button
         url: /features
         style: primary
   - section_id: features
