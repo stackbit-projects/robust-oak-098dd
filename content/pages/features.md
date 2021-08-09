@@ -4,7 +4,7 @@ sections:
   - section_id: features
     type: section_content
     background: gray
-    image: images/feature1.png
+    image: /images/12.jpg
     image_alt: App preview on a phone and tablet
     title: This is stuff I can do for you!
     content: >
