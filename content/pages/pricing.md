@@ -5,7 +5,7 @@ sections:
     type: section_pricing
     background: gray
     title: A list of jobs and things
-    subtitle: Disastrously slapped together from what was a pricing page
+    subtitle: Hastily slapped together from what was a pricing page
     pricing_plans:
       - title: Basic
         subtitle: For small businesses
