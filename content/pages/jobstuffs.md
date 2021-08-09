@@ -16,9 +16,7 @@ sections:
 
           *   This one 
         type: faq_item
-      - question: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
+      - question: I am going to engineering hell
         answer: >-
           ## Lorem ipsum
 
